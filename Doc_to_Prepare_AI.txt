@@ -1,0 +1,45 @@
+Manual QA
+SDET
+Automation Engineer
+Mobile Testing Engineer
+Performance Testing Engineer
+Accessibility Testing Engineer
+Compatibility Testing Engineer
+API Testing Engineer	Prompt Engineering for Test Case Generation
+AI Tool Familiarity (Copilot, ChatGPT, Claude)
+AI-Assisted Automation (Testim / Mabl / Playwright MCP)
+Self-Healing & Visual Test Maintenance
+CI/CD Integration of AI Tools
+AI-Powered Test Reporting & Analytics
+Selenium / Cypress / Playwright
+Python / JavaScript (Scripting & Test Automation)
+API Testing with AI (Postman AI, REST-assured)
+Agentic Test Orchestration (AutoGen, LangGraph)
+Contract Testing (Pact / Consumer-Driven)
+ML Concepts Familiarity
+Defect Prediction using ML Models
+Load Testing with AI Analysis (k6 + AI)
+Observability & Monitoring (Datadog, Grafana)
+
+ 
+
+AI Feature Tester
+MLOps Engineer
+Data Scientist (AI/NLP domain)
+NLP / LLM Application Developer
+Conversational AI Tester
+GenAI Product Tester	LLM / GenAI Feature Testing
+AI Evaluation Frameworks (DeepEval, RAGAS, LangSmith)
+Adversarial & Edge Case Testing (Prompt Injection, Jailbreak)
+Model Performance Metrics (Accuracy, F1, Precision, Recall)
+Data Quality & Pipeline Validation
+Bias, Fairness & Ethics Testing
+AI Safety & Security (PII, Compliance, RegAI)
+Python Proficient – pytest, numpy, pandas
+RAG Pipeline Testing & Validation
+Hallucination Detection & Mitigation Testing
+Multimodal Testing (Vision, Audio, Video AI)
+Shadow Mode / A-B Model Comparison Testing
+Explainability Tools (SHAP / LIME)
+Agentic AI Workflow Testing (AutoGen, CrewAI, LangGraph)
+Synthetic Data Generation for Testing
